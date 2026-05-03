@@ -2,6 +2,8 @@
 
 VoteRight AI is a modern, AI-powered civic guidance platform designed for Indian voters. It provides simple, interactive, accessible, and personalized guidance on election processes.
 
+ **Live Web App:** [https://voteright-ai.web.app/](https://voteright-ai.web.app/)
+
 ##  Chosen Vertical
 **Civic Technology & Voter Education.** We focused on the intersection of AI and civic duty, specifically tackling the drop-off in voter participation caused by bureaucratic friction and lack of accessible information.
 
